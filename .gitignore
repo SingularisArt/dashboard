@@ -83,8 +83,8 @@ lerna-debug.log
 .DS_Store
 Thumbs.db
 
-# Data files
-src/data/
+# Sensitive data files
+src/data/json
 
 # dependencies
 /node_modules
